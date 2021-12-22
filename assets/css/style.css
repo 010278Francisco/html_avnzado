@@ -1,0 +1,12 @@
+.formulario{
+    border: 1px solid red;
+}
+.clas_nombre{
+    border: 2px green solid;
+    border-radius: 2px;
+    
+}
+
+#password{
+    border: 2px dashed blue;
+}
